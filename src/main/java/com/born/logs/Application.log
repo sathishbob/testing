@@ -1,0 +1,187 @@
+07/19/2017 17:55:55 DEBUG devpinoyLogger:66 - Hello
+07/19/2017 17:55:55 DEBUG devpinoyLogger:67 - Properties loaded. Starting testing
+07/19/2017 17:55:55 DEBUG devpinoyLogger:73 - Intialize Suite xlsx
+07/19/2017 17:55:56 DEBUG devpinoyLogger:79 - Login functionality -- Y
+07/19/2017 17:55:56 DEBUG devpinoyLogger:84 - ******Executing the Suite******Login functionality
+07/19/2017 17:55:56 DEBUG devpinoyLogger:88 - LogIn -- Y
+07/19/2017 17:55:56 DEBUG devpinoyLogger:92 - Executing the test case -> LogIn
+07/19/2017 17:55:56 DEBUG devpinoyLogger:139 - openBrowser2
+07/19/2017 17:55:56 DEBUG devpinoyLogger:1188 - Opening browser
+07/19/2017 17:56:00 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:00 DEBUG devpinoyLogger:139 - navigate
+07/19/2017 17:56:00 DEBUG devpinoyLogger:79 - Navigating to URL
+07/19/2017 17:56:08 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:08 DEBUG devpinoyLogger:139 - clickLink
+07/19/2017 17:56:08 DEBUG devpinoyLogger:108 - Clicking on link 
+07/19/2017 17:56:12 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:12 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:14 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:14 DEBUG devpinoyLogger:139 - verifyText
+07/19/2017 17:56:14 DEBUG devpinoyLogger:354 - Verifying the text
+07/19/2017 17:56:16 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:16 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:18 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:18 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:56:18 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:56:20 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:20 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:22 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:22 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:56:22 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:56:24 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:24 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:26 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:26 DEBUG devpinoyLogger:139 - clickLink
+07/19/2017 17:56:26 DEBUG devpinoyLogger:108 - Clicking on link 
+07/19/2017 17:56:32 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:32 DEBUG devpinoyLogger:139 - verifyText
+07/19/2017 17:56:32 DEBUG devpinoyLogger:354 - Verifying the text
+07/19/2017 17:56:33 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:33 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:35 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:35 DEBUG devpinoyLogger:139 - closeBrowser
+07/19/2017 17:56:35 DEBUG devpinoyLogger:504 - Closing the browser
+07/19/2017 17:56:36 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:40 DEBUG devpinoyLogger:88 - LogOut -- N
+07/19/2017 17:56:40 DEBUG devpinoyLogger:88 - Registration -- Y
+07/19/2017 17:56:40 DEBUG devpinoyLogger:92 - Executing the test case -> Registration
+07/19/2017 17:56:40 DEBUG devpinoyLogger:98 - Iteration number 1
+07/19/2017 17:56:40 DEBUG devpinoyLogger:139 - openBrowser2
+07/19/2017 17:56:40 DEBUG devpinoyLogger:1188 - Opening browser
+07/19/2017 17:56:43 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:43 DEBUG devpinoyLogger:139 - navigate
+07/19/2017 17:56:43 DEBUG devpinoyLogger:79 - Navigating to URL
+07/19/2017 17:56:48 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:48 DEBUG devpinoyLogger:139 - clickLink
+07/19/2017 17:56:48 DEBUG devpinoyLogger:108 - Clicking on link 
+07/19/2017 17:56:53 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:53 DEBUG devpinoyLogger:139 - verifyText
+07/19/2017 17:56:53 DEBUG devpinoyLogger:354 - Verifying the text
+07/19/2017 17:56:55 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:55 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:56:58 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:56:58 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:56:58 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:00 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:00 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:57:00 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:02 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:02 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:57:05 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:05 DEBUG devpinoyLogger:139 - selectList
+07/19/2017 17:57:05 DEBUG devpinoyLogger:200 - Selecting from list
+07/19/2017 17:57:07 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:07 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:57:07 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:28 DEBUG devpinoyLogger:147 - FAIL Unable to write no such element: Unable to locate element: {"method":"xpath","selector":"//div/input[@id='register.userAge']"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.35 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'PENTEMPHP005', ip: '10.98.102.95', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\RAGHAV~1.G\AppData\Local\Temp\scoped_dir36872_29576}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 52f645fc9a6752a5dea3775e13a113e8
+*** Element info: {Using=xpath, value=//div/input[@id='register.userAge']}
+07/19/2017 17:57:28 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:57:31 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:31 DEBUG devpinoyLogger:139 - selectList
+07/19/2017 17:57:31 DEBUG devpinoyLogger:200 - Selecting from list
+07/19/2017 17:57:33 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:33 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:57:37 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:37 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:57:37 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:38 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:38 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:57:38 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:40 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:40 DEBUG devpinoyLogger:139 - writeInInput
+07/19/2017 17:57:40 DEBUG devpinoyLogger:370 - Writing in text box
+07/19/2017 17:57:42 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:42 DEBUG devpinoyLogger:139 - clickLink
+07/19/2017 17:57:42 DEBUG devpinoyLogger:108 - Clicking on link 
+07/19/2017 17:57:46 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:46 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:57:49 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:57:49 DEBUG devpinoyLogger:139 - verifyText
+07/19/2017 17:57:49 DEBUG devpinoyLogger:354 - Verifying the text
+07/19/2017 17:58:09 DEBUG devpinoyLogger:147 - FAIL Object not found no such element: Unable to locate element: {"method":"xpath","selector":"//ul/li[contains(text(),'Thank you for registering.')]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'PENTEMPHP005', ip: '10.98.102.95', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_71'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\RAGHAV~1.G\AppData\Local\Temp\scoped_dir36872_29576}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 52f645fc9a6752a5dea3775e13a113e8
+*** Element info: {Using=xpath, value=//ul/li[contains(text(),'Thank you for registering.')]}
+07/19/2017 17:58:09 DEBUG devpinoyLogger:139 - closeBrowser
+07/19/2017 17:58:09 DEBUG devpinoyLogger:504 - Closing the browser
+07/19/2017 17:58:12 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:15 DEBUG devpinoyLogger:98 - Iteration number 2
+07/19/2017 17:58:17 DEBUG devpinoyLogger:98 - Iteration number 3
+07/19/2017 17:58:20 DEBUG devpinoyLogger:98 - Iteration number 4
+07/19/2017 17:58:22 DEBUG devpinoyLogger:98 - Iteration number 5
+07/19/2017 17:58:24 DEBUG devpinoyLogger:79 - My Account -- Y
+07/19/2017 17:58:24 DEBUG devpinoyLogger:84 - ******Executing the Suite******My Account
+07/19/2017 17:58:24 DEBUG devpinoyLogger:88 - VariantPDP -- N
+07/19/2017 17:58:24 DEBUG devpinoyLogger:88 - PDP-Write A Review -- N
+07/19/2017 17:58:24 DEBUG devpinoyLogger:88 - SortByAscending -- Y
+07/19/2017 17:58:24 DEBUG devpinoyLogger:92 - Executing the test case -> SortByAscending
+07/19/2017 17:58:24 DEBUG devpinoyLogger:98 - Iteration number 1
+07/19/2017 17:58:24 DEBUG devpinoyLogger:139 - openBrowser2
+07/19/2017 17:58:24 DEBUG devpinoyLogger:1188 - Opening browser
+07/19/2017 17:58:27 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:27 DEBUG devpinoyLogger:139 - navigate
+07/19/2017 17:58:27 DEBUG devpinoyLogger:79 - Navigating to URL
+07/19/2017 17:58:39 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:39 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:58:44 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:44 DEBUG devpinoyLogger:139 - mouseHover1
+07/19/2017 17:58:44 DEBUG devpinoyLogger:1168 - Mouse Hovering to the element
+07/19/2017 17:58:53 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:53 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:58:58 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:58:58 DEBUG devpinoyLogger:139 - clickLink
+07/19/2017 17:58:58 DEBUG devpinoyLogger:108 - Clicking on link 
+07/19/2017 17:59:03 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:03 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:59:08 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:08 DEBUG devpinoyLogger:139 - selectList
+07/19/2017 17:59:08 DEBUG devpinoyLogger:200 - Selecting from list
+07/19/2017 17:59:12 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:12 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:59:17 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:17 DEBUG devpinoyLogger:139 - SortByAscending
+07/19/2017 17:59:17 DEBUG devpinoyLogger:1287 - Verifying the SortBy-Ascending
+07/19/2017 17:59:17 DEBUG devpinoyLogger:1291 - Storing the products into the linkedlist
+07/19/2017 17:59:18 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:18 DEBUG devpinoyLogger:139 - pause
+07/19/2017 17:59:23 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 17:59:23 DEBUG devpinoyLogger:139 - closeBrowser
+07/19/2017 17:59:23 DEBUG devpinoyLogger:504 - Closing the browser
+07/19/2017 17:59:24 DEBUG devpinoyLogger:147 - PASS
+07/19/2017 18:00:04 DEBUG devpinoyLogger:98 - Iteration number 2
+07/19/2017 18:00:56 DEBUG devpinoyLogger:98 - Iteration number 3
+07/19/2017 18:01:48 DEBUG devpinoyLogger:98 - Iteration number 4
+07/19/2017 18:02:40 DEBUG devpinoyLogger:98 - Iteration number 5
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - SortByDescending -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - OptaviaLogo -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - OptaviaHeader -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Header-My Account Logout -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - PDP-ProductTabs -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - PDP-ServingSize -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Grid&ListUI -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Header-AboutUs -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Pagination -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Footer-JoinUs -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Header- My Account Link -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - PDP-ProductSharing -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - MiniCart-Header -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Footer-SocialMedia -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Footer -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:88 - Header-OptaviaCommunity -- N
+07/19/2017 18:03:33 DEBUG devpinoyLogger:79 - Check out -- N

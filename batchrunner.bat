@@ -1,0 +1,1 @@
+ant -d clean build DriverScript TestReportUtil
