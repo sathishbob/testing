@@ -1046,7 +1046,7 @@ public class Keywords {
     public String explicitwait(String object, String data) {
     	APP_LOGS.debug("Waiting for the element to be visible");
     	try{
-    		WebDriverWait wait=new WebDriverWait(driver,100);
+    		WebDriverWait wait=new WebDriverWait(driver,30);
     		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(OR.getProperty(object))));
     	}catch(Exception e)
     	{
