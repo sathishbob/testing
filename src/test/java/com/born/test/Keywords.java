@@ -1,4 +1,4 @@
-package com.born.test;
+﻿package com.born.test;
 import static com.born.test.DriverScript.APP_LOGS;
 import static com.born.test.DriverScript.CONFIG;
 import static com.born.test.DriverScript.OR;
@@ -2133,7 +2133,20 @@ public class Keywords {
 				        }
 				        return Constants.KEYWORD_PASS;
 
-				    }				 
+				    }
+		
+		public String ArrowKeyDown(String object, String data) {
+			  APP_LOGS.debug("Clicking Arrow Down key");
+			  try {
+			   Robot r = new Robot();
+			   r.keyPress(KeyEvent.VK_DOWN);
+			  } catch (Exception e) {
+			   return Constants.KEYWORD_FAIL + "Unable to click, Arrow Down "
+			     + e.getMessage();
+			  }
+			  return Constants.KEYWORD_PASS;
+
+			 }
 			        
 			    }	
 
