@@ -1,4 +1,4 @@
-﻿package com.born.test;
+package com.born.test;
 import static com.born.test.DriverScript.APP_LOGS;
 import static com.born.test.DriverScript.CONFIG;
 import static com.born.test.DriverScript.OR;
