@@ -1046,7 +1046,7 @@ public class Keywords {
     public String explicitwait(String object, String data) {
     	APP_LOGS.debug("Waiting for the element to be visible");
     	try{
-    		WebDriverWait wait=new WebDriverWait(driver,100);
+    		WebDriverWait wait=new WebDriverWait(driver,30);
     		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(OR.getProperty(object))));
     	}catch(Exception e)
     	{
@@ -2133,7 +2133,20 @@ public class Keywords {
 				        }
 				        return Constants.KEYWORD_PASS;
 
-				    }				 
+				    }
+		
+		public String ArrowKeyDown(String object, String data) {
+			  APP_LOGS.debug("Clicking Arrow Down key");
+			  try {
+			   Robot r = new Robot();
+			   r.keyPress(KeyEvent.VK_DOWN);
+			  } catch (Exception e) {
+			   return Constants.KEYWORD_FAIL + "Unable to click, Arrow Down "
+			     + e.getMessage();
+			  }
+			  return Constants.KEYWORD_PASS;
+
+			 }
 			        
 			    }	
 
