@@ -1,58 +1,18 @@
-02/16/2018 18:11:15 DEBUG devpinoyLogger:66 - Hello
-02/16/2018 18:11:15 DEBUG devpinoyLogger:67 - Properties loaded. Starting testing
-02/16/2018 18:11:15 DEBUG devpinoyLogger:73 - Intialize Suite xlsx
-02/16/2018 18:11:16 DEBUG devpinoyLogger:79 - Login functionality -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:79 - ProductListPage -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:79 - ProductDetailsPage -- Y
-02/16/2018 18:11:16 DEBUG devpinoyLogger:84 - ******Executing the Suite******ProductDetailsPage
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Verify Add to Project -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Verification of View My Items -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Comparing the Products -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Product details page -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - PDP-Verification of Favorite products -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - PDP-Write a Review -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Verification of Available details of a product -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Verification of Service parts page -- N
-02/16/2018 18:11:16 DEBUG devpinoyLogger:88 - Shop Online Where to Buy(WTB) -- Y
-02/16/2018 18:11:16 DEBUG devpinoyLogger:92 - Executing the test case -> Shop Online Where to Buy(WTB)
-02/16/2018 18:11:16 DEBUG devpinoyLogger:139 - openBrowser2
-02/16/2018 18:11:16 DEBUG devpinoyLogger:1940 - Opening browser
-02/16/2018 18:11:21 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:11:21 DEBUG devpinoyLogger:139 - navigate
-02/16/2018 18:11:21 DEBUG devpinoyLogger:581 - Navigating to URL
-02/16/2018 18:12:05 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:12:05 DEBUG devpinoyLogger:139 - mouseHover
-02/16/2018 18:12:05 DEBUG devpinoyLogger:1504 - Mouse Hovering to the element
-02/16/2018 18:12:12 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:12:12 DEBUG devpinoyLogger:139 - enablehidden
-02/16/2018 18:12:12 DEBUG devpinoyLogger:594 - Enabling Hidden elements 
-02/16/2018 18:13:37 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:13:37 DEBUG devpinoyLogger:139 - exist
-02/16/2018 18:13:37 DEBUG devpinoyLogger:943 - Checking existance of element
-02/16/2018 18:13:37 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:13:37 DEBUG devpinoyLogger:139 - pause
-02/16/2018 18:13:42 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:13:42 DEBUG devpinoyLogger:139 - uniqueSelect
-02/16/2018 18:13:42 DEBUG devpinoyLogger:1983 - Clicking one element out of list
-02/16/2018 18:14:19 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:19 DEBUG devpinoyLogger:139 - explicitwait
-02/16/2018 18:14:19 DEBUG devpinoyLogger:1047 - Waiting for the element to be visible
-02/16/2018 18:14:19 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:19 DEBUG devpinoyLogger:139 - enablehidden
-02/16/2018 18:14:19 DEBUG devpinoyLogger:594 - Enabling Hidden elements 
-02/16/2018 18:14:19 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:19 DEBUG devpinoyLogger:139 - explicitwait
-02/16/2018 18:14:19 DEBUG devpinoyLogger:1047 - Waiting for the element to be visible
-02/16/2018 18:14:19 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:19 DEBUG devpinoyLogger:139 - enablehidden
-02/16/2018 18:14:19 DEBUG devpinoyLogger:594 - Enabling Hidden elements 
-02/16/2018 18:14:36 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:36 DEBUG devpinoyLogger:139 - explicitwait
-02/16/2018 18:14:36 DEBUG devpinoyLogger:1047 - Waiting for the element to be visible
-02/16/2018 18:14:36 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:36 DEBUG devpinoyLogger:139 - exist
-02/16/2018 18:14:36 DEBUG devpinoyLogger:943 - Checking existance of element
-02/16/2018 18:14:36 DEBUG devpinoyLogger:147 - PASS
-02/16/2018 18:14:36 DEBUG devpinoyLogger:139 - quitBrowser
-02/16/2018 18:14:36 DEBUG devpinoyLogger:1031 - Closing the browser
-02/16/2018 18:14:38 DEBUG devpinoyLogger:147 - PASS
+02/16/2018 18:35:46 DEBUG devpinoyLogger:66 - Hello
+02/16/2018 18:35:46 DEBUG devpinoyLogger:67 - Properties loaded. Starting testing
+02/16/2018 18:35:46 DEBUG devpinoyLogger:73 - Intialize Suite xlsx
+02/16/2018 18:35:47 DEBUG devpinoyLogger:79 - Login functionality -- N
+02/16/2018 18:35:47 DEBUG devpinoyLogger:79 - ProductListPage -- N
+02/16/2018 18:35:47 DEBUG devpinoyLogger:79 - ProductDetailsPage -- Y
+02/16/2018 18:35:47 DEBUG devpinoyLogger:84 - ******Executing the Suite******ProductDetailsPage
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Verify Add to Project -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Verification of View My Items -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Comparing the Products -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Product details page -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - PDP-Verification of Favorite products -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - PDP-Write a Review -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Verification of Available details of a product -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Verification of Service parts page -- N
+02/16/2018 18:35:48 DEBUG devpinoyLogger:88 - Shop Online Where to Buy(WTB) -- Y
+02/16/2018 18:35:48 DEBUG devpinoyLogger:92 - Executing the test case -> Shop Online Where to Buy(WTB)
+02/16/2018 18:35:48 DEBUG devpinoyLogger:98 - Iteration number 1
