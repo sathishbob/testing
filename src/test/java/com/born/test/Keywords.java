@@ -2147,7 +2147,23 @@ public class Keywords {
 			  return Constants.KEYWORD_PASS;
 
 			 }
-			        
+			       
+		
+		public  String clickFirstElement(String object,String data){
+	        APP_LOGS.debug("Selecting Random item from dropdown");
+	        try{
+	        
+	        	 List<WebElement>Element= driver.findElements(By.xpath(OR.getProperty(object)));
+	        	    JavascriptExecutor executor = (JavascriptExecutor)driver;
+	        	    executor.executeScript("arguments[0].click();", Element);
+	        
+	        }catch(Exception e){
+	            return Constants.KEYWORD_FAIL +" - cannot select the dropdown random"+ e.getMessage();
+
+	        }
+	        return Constants.KEYWORD_PASS;
+
+	    }
 			    }	
 
 
