@@ -172,4 +172,14 @@
             <classpath refid="run.TestReportUtil.classpath"/>
         </java>
     </target>
+    <target name="Firefoxbrowser">
+		<propertyfile file="${basedir}/src/test/java/com/born/config/config.properties">
+		<entry key="browserType" value="Mozilla"/>
+	</propertyfile>
+	</target>
+	<target name="Chromebrowser">
+		<propertyfile file="${basedir}/src/test/java/com/born/config/config.properties">
+		<entry key="browserType" value="Chrome"/>
+	</propertyfile>
+	</target>
 </project>
