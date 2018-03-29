@@ -1099,8 +1099,8 @@ public class Keywords {
     public  String enter(String object, String data){
         APP_LOGS.debug("Going back one page");
         try{
-        	Robot r = new Robot();
-        	r.keyPress(KeyEvent.VK_ENTER);
+        	 Actions action=new Actions(driver);
+             action.sendKeys(Keys.ENTER).build().perform();
         }catch(Exception e){
             return Constants.KEYWORD_FAIL+"Unable to click, Enter Key "+e.getMessage();
         }
