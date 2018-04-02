@@ -43,7 +43,7 @@ public class DriverScript {
     public DriverScript() throws NoSuchMethodException, SecurityException{
         keywords = new Keywords();
         method = keywords.getClass().getMethods();
-        capturescreenShot_method =keywords.getClass().getMethod("captureScreenshotNew",String.class,String.class);
+        capturescreenShot_method =keywords.getClass().getMethod("captureScreenshot",String.class,String.class);
     }
 
     public static void main(String[] args) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException, IOException, NoSuchMethodException, SecurityException {
