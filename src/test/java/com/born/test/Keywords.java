@@ -2164,6 +2164,31 @@ public class Keywords {
 	        return Constants.KEYWORD_PASS;
 
 	    }
+		
+		//Added : Shaheena
+		//Select Select first Element on the page out of list using javascript
+		public String selectFirstElement(String object, String data) {
+			APP_LOGS.debug("Clicking one element out of list");
+			try {
+				
+			
+				List<WebElement> elements = driver.findElements(By.xpath(OR
+						.getProperty(object)));
+				
+				int size=elements.size();
+				
+	        	    JavascriptExecutor executor = (JavascriptExecutor)driver;
+	        	    executor.executeScript("arguments[0].click();", elements);
+		
+			} catch (Exception e) {
+				return Constants.KEYWORD_FAIL
+						+ " Not able to click element from list " + e.getMessage();
+
+			}
+			return Constants.KEYWORD_PASS;
+
+		}
+
 			    }	
 
 
