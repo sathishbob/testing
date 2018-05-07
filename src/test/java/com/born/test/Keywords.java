@@ -2189,6 +2189,37 @@ public class Keywords {
 
 		}
 
+		
+		public String notExist(String object,String data){
+	        APP_LOGS.debug("Checking existance of element");
+	        try{
+	            driver.findElement(By.xpath(OR.getProperty(object)));
+	        }catch(Exception e){
+	            return Constants.KEYWORD_PASS+" Object doest not exist";
+	        }
+
+
+	        return Constants.KEYWORD_FAIL;
+	    }
+
+		
+		//Added : Shaheena
+		//Switch to frame by using xpath
+		public String switchToFrameByXpath(String object, String data) {
+			APP_LOGS.debug("Switching perticular frame");
+
+			try {
+				driver.switchTo().frame(
+						driver.findElement(By.xpath(OR.getProperty(object))));
+			} catch (Exception e) {
+				return Constants.KEYWORD_FAIL + " Unable to switch frame "
+						+ e.getMessage();
+
+			}
+			return Constants.KEYWORD_PASS;
+
+		}
+		
 			    }	
 
 
