@@ -83,6 +83,8 @@ public class Keywords {
 			ChromeOptions options = new ChromeOptions();
 	        	options.addArguments("headless");
 	        	options.addArguments("window-size=1366x768");
+			options.addArguments("--no-sandbox");
+			options.addArguments("--disable-dev-shm-usage");
 	        driver = new ChromeDriver(options);
 		}
 		else if (data.equals("Mozilla-headless")) {
